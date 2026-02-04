@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Fidelis, tenho 18 anos e sou de São Paulo. Atualmente, estou no terceiro ano do ensino medio na escola Escola Estadual Ibrahim Nobre estudo progamação pelos cursos da alura des de 2023, apaixonado por progamação e em busca de mais aprendizados.
+Me chamo Guilherme Fidelis, tenho 18 anos e sou de São Paulo. Estudo progamação pelos cursos da alura des de 2023, apaixonado por progamação e em busca de mais aprendizados.
 
 <div> 
   <a href="https://instagram.com/fidelisog_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
